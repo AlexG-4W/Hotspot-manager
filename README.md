@@ -1,6 +1,6 @@
 # Windows Mobile Hotspot Manager
 
-A lightweight, modern Windows desktop utility designed to manage the built-in Mobile Hotspot functionality in Windows 11. 
+A lightweight, modern desktop utility designed to manage the built-in Mobile Hotspot functionality in Windows 11. 
 
 ## Features
 - **Modern GUI:** Built with `customtkinter` for a native, responsive look and feel.
@@ -53,3 +53,4 @@ pytest
 - **Pytest** (Testing)
 
 - **PyInstaller** (Compilation)
+
