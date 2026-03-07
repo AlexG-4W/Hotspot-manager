@@ -8,6 +8,7 @@ A lightweight, modern Windows desktop utility designed to manage the built-in Mo
 - **Advanced Automation:** Set a shutdown timer or enable the auto-restart feature to periodically reset the hotspot connection and prevent session hangs.
 - **Native Integration:** Interacts directly with the Windows Network Operators API (`winsdk`) for reliable network control without opening system settings.
 - **Memory Optimized:** Automatically manages memory with explicit garbage collection and resource caching when minimized to the tray.
+![scr1](https://github.com/user-attachments/assets/e1fa60e9-b38a-44aa-9406-fedf94d60909)
 
 ## Installation
 
@@ -50,4 +51,5 @@ pytest
 - **Pystray & Pillow** (System Tray Integration)
 - **WinSDK** (Windows Runtime API)
 - **Pytest** (Testing)
+
 - **PyInstaller** (Compilation)
