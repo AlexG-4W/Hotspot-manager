@@ -10,7 +10,9 @@ A lightweight, modern Windows desktop utility designed to manage the built-in Mo
 - **Native Integration:** Interacts directly with the Windows Network Operators API (`winsdk`) for reliable network control without opening system settings.
 - **Memory Optimized:** Automatically manages memory with explicit garbage collection and resource caching when minimized to the tray.
 
- ![scr1](https://github.com/user-attachments/assets/d355926c-ab21-4776-b126-6bd4541824a9)
+
+![scr1new](https://github.com/user-attachments/assets/13aa4215-7118-4c56-bfce-340fd28ac3c6)
+
 ![scr2](https://github.com/user-attachments/assets/acfbeb0c-984b-48c0-a30f-6cf2cae0855e)
 
 
@@ -68,3 +70,4 @@ pytest
 - **WinSDK** (Windows Runtime API)
 - **Pytest** (Testing)
 - **PyInstaller** (Compilation)
+
