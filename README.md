@@ -45,6 +45,12 @@ To run the test suite:
 pytest
 ```
 
+## What's New in v1.2
+- **Hibernation Crash Fix:** Added robust exception handling to the background monitoring loop to prevent unresponsiveness and crashes when the system wakes up from hibernation.
+- **Start with Windows Fix:** Resolved an issue where the standalone PyInstaller executable failed to start on system boot. The application now properly registers its absolute path in the Windows Registry.
+- **Silent Startup:** Added a `--minimized` command-line flag. When starting with Windows, the application now launches silently in the background (system tray) without opening the main UI window.
+- **Graceful Exit:** Improved application termination to ensure no zombie background processes remain active when exiting from the system tray.
+
 ## Technologies Used
 - **Python 3**
 - **CustomTkinter** (UI Framework)
@@ -53,4 +59,5 @@ pytest
 - **Pytest** (Testing)
 
 - **PyInstaller** (Compilation)
+
 
