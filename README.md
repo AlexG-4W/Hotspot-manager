@@ -11,7 +11,13 @@ A lightweight, modern Windows desktop utility designed to manage the built-in Mo
 - **Memory Optimized:** Automatically manages memory with explicit garbage collection and resource caching when minimized to the tray.
 
 
-![scr1new](https://github.com/user-attachments/assets/13aa4215-7118-4c56-bfce-340fd28ac3c6)
+
+
+![scr1new](https://github.com/user-attachments/assets/42c024e5-23f3-4d10-b9b6-8b85ac73629d)
+
+
+
+
 
 ![scr2](https://github.com/user-attachments/assets/acfbeb0c-984b-48c0-a30f-6cf2cae0855e)
 
@@ -70,4 +76,5 @@ pytest
 - **WinSDK** (Windows Runtime API)
 - **Pytest** (Testing)
 - **PyInstaller** (Compilation)
+
 
